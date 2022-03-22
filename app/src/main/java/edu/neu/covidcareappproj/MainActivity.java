@@ -18,6 +18,7 @@ import edu.neu.covidcareappproj.databinding.ActivityMainBinding;
 import android.view.Menu;
 import android.view.MenuItem;
 
+
 public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration appBarConfiguration;
