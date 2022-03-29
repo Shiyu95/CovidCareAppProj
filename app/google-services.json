@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116939053533",
+    "project_id": "covidcareapp-e9687",
+    "storage_bucket": "covidcareapp-e9687.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116939053533:android:86021c113e356661abfe34",
+        "android_client_info": {
+          "package_name": "edu.neu.covidcareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116939053533-gqunhm6de5qvjrc7essvierrk4rfanqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsejh9znE1qyoWKhnlqZD7csVTwWhr5uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116939053533-gqunhm6de5qvjrc7essvierrk4rfanqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
