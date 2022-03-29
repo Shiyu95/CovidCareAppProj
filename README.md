@@ -6,6 +6,7 @@
 - Huiming  Zhou
  
  
+ 
 ## 2. App Description
 COVID Care App provides support to people or their family members in the community who are recovering 
 from COVID-19, sharing their daily recovery life, sharing latest research about COVID-19 and providing 
