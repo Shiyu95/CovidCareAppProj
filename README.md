@@ -3,7 +3,7 @@
 ## 1. Team Member
 - Shiyu Huang
 - Qiuxuan Wu
-- Huiming Zhou
+- Huiming  Zhou
 
 
 ## 2. App Description
