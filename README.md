@@ -4,7 +4,6 @@
 - Shiyu Huang
 - Qiuxuan Wu
 - Huiming  Zhou
-
  
  
 ## 2. App Description
