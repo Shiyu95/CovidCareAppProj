@@ -1,5 +1,5 @@
 package edu.neu.covidcareapp.activities;
-
+//...
 public class Check {
     private String feverish;
     private String diarrhea;
