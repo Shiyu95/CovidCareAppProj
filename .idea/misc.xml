@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_forgot_password.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_full_message_display.xml" value="0.16058763931104356" />
+        <entry key="app/src/main/res/layout/row_comment_display.xml" value="0.16058763931104356" />
       </map>
     </option>
   </component>
