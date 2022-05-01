@@ -86,7 +86,7 @@ public class Login extends AppCompatActivity {
     }
 
     // reference document:https://firebase.google.com/docs/auth/android/password-auth?hl=el&authuser=0
-    private void signIn(String email, String password) {
+     public void signIn(String email, String password) {
         mAuth.signInWithEmailAndPassword(email, password)
                 .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
                     @Override
@@ -101,6 +101,15 @@ public class Login extends AppCompatActivity {
                         }
                     }
                 });
+    }
+
+
+    public String validate(String userName, String password)
+    {
+        if(userName.equals("user") && password.equals("user"))
+            return "Login was successful";
+        else
+            return "Invalid login!";
     }
 
     private void updateUI() {
